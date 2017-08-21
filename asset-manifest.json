@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.5685d0bd.css",
-  "main.css.map": "static/css/main.5685d0bd.css.map",
-  "main.js": "static/js/main.b2586557.js",
-  "main.js.map": "static/js/main.b2586557.js.map",
+  "main.css": "static/css/main.be4b5fd1.css",
+  "main.css.map": "static/css/main.be4b5fd1.css.map",
+  "main.js": "static/js/main.d834cdc1.js",
+  "main.js.map": "static/js/main.d834cdc1.js.map",
   "static/media/1.jpg": "static/media/1.00622af1.jpg",
   "static/media/1.png": "static/media/1.6f303862.png",
   "static/media/10.jpg": "static/media/10.f466dfcb.jpg",
@@ -14,7 +14,7 @@
   "static/media/13.png": "static/media/13.f2d87dfc.png",
   "static/media/14.jpg": "static/media/14.b8ee1723.jpg",
   "static/media/14.png": "static/media/14.a8cd59d0.png",
-  "static/media/15.jpg": "static/media/15.5cdb8b92.jpg",
+  "static/media/15.jpg": "static/media/15.d180315e.jpg",
   "static/media/16.jpg": "static/media/16.118150e6.jpg",
   "static/media/16.png": "static/media/16.ed923596.png",
   "static/media/17.png": "static/media/17.c1460483.png",
@@ -36,6 +36,6 @@
   "static/media/8.jpg": "static/media/8.45343627.jpg",
   "static/media/9.jpg": "static/media/9.3f1b2f3a.jpg",
   "static/media/9.png": "static/media/9.9f422021.png",
-  "static/media/PlayStationIcons-Regular.woff": "static/media/PlayStationIcons-Regular.c985dc57.woff",
+  "static/media/PlayStationIcons-Regular.woff": "static/media/PlayStationIcons-Regular.fb4e6e75.woff",
   "static/media/ic_verified_user.svg": "static/media/ic_verified_user.8e57824e.svg"
 }
